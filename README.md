@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sammuthaiga/assets/main/futuristic-banner.gif" alt="Futuristic Banner" width="100%" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=0FFFD7&center=true&vCenter=true&width=800&lines=👨‍💻+Futurist+Engineer;Building+the+Future+at+Autochek+Africa;Open+Source,+Full+Stack,+Elegant+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=0FFFD7&center=true&vCenter=true&width=800&lines=👨‍💻+Futurist+Engineer+Sleek+Designs+Superlative+Experience;Building+The+Future+at+Autochek+Africa;Open+Source+Full+Stack," alt="Typing SVG" />
 </p>
 
 <p align="center" style="font-family: 'Orbitron', 'Roboto Mono', 'Fira Code', monospace; font-size: 1.2em;">
